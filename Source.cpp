@@ -1,10 +1,12 @@
 #include<iostream>
 using namespace std;
 
+/*Class to perform queues basic functionality*/
 class queue
 {
 	int queue1[5];
-	int rear, front;
+	int rear;
+	int front;
 public:
 	queue()
 	{
