@@ -2,6 +2,7 @@
 using namespace std;
 
 /*Class to perform queues basic functionality*/
+/*Also we have done something amazing today. Cheers*/
 class queue
 {
 	int queue1[5];
